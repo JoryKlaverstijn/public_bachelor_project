@@ -35,8 +35,9 @@ Running the code
 ----------------
 
 1.  Clone the entire repository for the library code
-2.  Call the create_mnist_array() function inside of `mnist.py` to create an ordered array of processed MNIST-images
-3.  Set desired parameters (noise, nr. of digits, which networks to run
+2.  Call the create_mnist_array("filename") function inside of `mnist.py` to create an ordered array of processed MNIST-images
+3.  Rename the resulting .npy file "mnist_mOja_array.npy" and place it inside `main_experiment` folder
+4.  Set desired parameters (noise, nr. of digits, which networks to run
     etc.) in `main.py`
-4.  Run `main.py`
+5.  Run `main.py`
 
