@@ -4,7 +4,7 @@ Designing a Hopfield Neural Network Using Memristors
 Abstract
 --------
 
-In this paper it is explained how Nb-doped SrTiO$_3$ memristors could be
+In this paper it is explained how Nb-doped SrTiO3 memristors could be
 integrated into classical Hopfield neural networks (HNN), and how a
 working simulated model could be designed. The performance of this model
 was tested and compared to the performance of a linearised version,
