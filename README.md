@@ -42,5 +42,5 @@ Running the code
 5.  Run `main.py`
 
 ----------------
-Some parts of the code are modified segments from the following repository:
+Some parts of the code are modified code segments from the following repository:
 https://github.com/Tioz90/Learning-to-approximate-functions-using-niobium-doped-strontium-titanate-memristors/tree/single_op
